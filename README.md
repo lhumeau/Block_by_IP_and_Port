@@ -35,4 +35,4 @@ If you like this project and want to support my work, you can make a donation on
 
 <a href="https://www.patreon.com/HYNIT" target="_blank"><img src="https://img.shields.io/badge/Support%20me%20on-Patreon-orange.svg?logo=patreon&style=for-the-badge" alt="Support me on Patreon"></a>
 
-<a href="https://www.paypal.com/paypalme/luishumeau90" target="_blank"><img src="https://img.shields.io/badge/Donate%20with-PayPal-blue.svg?logo=paypal&style=for-the-badge" alt="Donate with PayPal"></a>
+<a href="https://www.paypal.com/paypalme/luishumeau90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Donate%20with-PayPal-blue.svg?logo=paypal&style=for-the-badge" alt="Donate with PayPal"></a>
