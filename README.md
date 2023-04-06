@@ -9,8 +9,6 @@ Tool to block IP addresses on ports 3389 and 443 in a Windows environment.
 * win32com
 * netifaces
 
-Note:
-You must have ncap installed on your Windows Machine.
 
 ## Installation
 
