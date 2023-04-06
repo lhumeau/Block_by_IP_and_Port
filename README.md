@@ -39,8 +39,7 @@ This project is licensed under the MIT License. See the [LICENSE] file for more 
 
 ## Contact Information
 
-<a href="mailto:l.humeau@hynit.com">l.humeau@hynit.com Envíeme un correo electrónico</a>
-
+You can reach me by email at <a href="mailto:l.humeau@hynit.com">l.humeau@hynit.com</a>.
 
 ## Donations
 
