@@ -11,10 +11,15 @@ Tool to block IP addresses on ports 3389 and 443 in a Windows environment.
 
 ## Installation
 
+
+Install Libraries:
 <code>
-  pip install requirements.txt
-  python ipblockandport.py
+pip install -r requirements.txt
  </code>
+Run:
+<code>
+  python ipblockandport.py
+</code>
  
  
 ## Usage
