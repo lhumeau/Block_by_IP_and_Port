@@ -1,2 +1,4 @@
-ipwhois==0.12.0
-scapy==2.4.5
+ipwhois==1.2.0
+scapy==2.4.4
+pypiwin32==223
+netifaces==0.11.0
