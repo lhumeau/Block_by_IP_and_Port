@@ -2,8 +2,22 @@
 
 ## Prerequisites 
 
+<code>
+import os
+import re
+import sys
+import ctypes
+import win32com.client
+from ipwhois import IPWhois
+from scapy.all import sniff
+from scapy.layers.inet import IP
+import win32api 
+import subprocess
+import socket
+import netifaces
+import threading
 
-Liste cualquier software o herramienta requerida para ejecutar o contribuir al proyecto.
+</code>
 
 ## Installation
 <code>
@@ -18,9 +32,6 @@ Block entries ip from ports 3389 and 443 excepting local interfaces is base on a
 in this code i'm filtering ip by whois libraries using scappy for monitoring packets from source and ports.
 
 
-## Contribución
-
-Describa cómo otros desarrolladores pueden contribuir al proyecto. Incluya información sobre cómo hacer pull requests y cualquier guía de estilo de código que deba seguirse.
 
 ## License
 
@@ -28,7 +39,7 @@ This project is licensed under the MIT License. See the [LICENSE] file for more 
 
 ## Contact Information
 
-<a href="mailto:l.humeau@hynit.com">Envíeme un correo electrónico</a>
+<a href="mailto:l.humeau@hynit.com">l.humeau@hynit.com Envíeme un correo electrónico</a>
 
 
 ## Donations
